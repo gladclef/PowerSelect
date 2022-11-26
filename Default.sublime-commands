@@ -1,0 +1,14 @@
+[
+	{
+		"caption": "Power Select: Deselect Lines",
+		"command": "power_select", "args": { "mode": "deselect-lines" }
+	},
+	{
+		"caption": "Power Select: Clear To Last",
+		"command": "power_select", "args": { "mode": "clear-all" }
+	},
+	{
+		"caption": "Power Select: Split Lines",
+		"command": "power_select", "args": { "mode": "split-lines" }
+	}
+]

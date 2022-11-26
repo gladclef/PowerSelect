@@ -1,0 +1,8 @@
+[
+	{
+		"keys": ["shift+escape"], "command": "power_select", "args": { "mode": "clear-all" }
+	},
+	{
+		"keys": ["ctrl+l"], "command": "power_select", "args": { "mode": "split-lines" }
+	}
+]
